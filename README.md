@@ -20,11 +20,11 @@ architektura Controller/Service/Client, brak paginacji, bezpieczeństwa i cache,
 - Testy integracyjne emulujące serwer GitHub
 
 ## Uruchomienie
-Sklonuj repozytorium z GitHuba, używając linku:
+Sklonować repozytorium z GitHuba, używając linku:
 https://github.com/rejo1234/Github-repositories-api.git
 
-Wejdź do katalogu projektu (cd Github-repositories-api).
+Wejść do katalogu projektu (cd Github-repositories-api).
 
-Uruchom aplikację poleceniem mvn spring-boot:run.
+Uruchomić aplikację poleceniem mvn spring-boot:run.
 
 Po uruchomieniu API będzie dostępne pod adresem: http://localhost:8080.
